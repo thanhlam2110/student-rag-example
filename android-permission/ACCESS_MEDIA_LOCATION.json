@@ -1,0 +1,6 @@
+{
+	"permission_name":"ACCESS_MEDIA_LOCATION",
+	"permission_describe":"Allows an application to access any geographic locations persisted in the user's shared collection",
+	"permission_level": "dangerous",
+	"constant Value": "android.permission.ACCESS_MEDIA_LOCATION" 
+}

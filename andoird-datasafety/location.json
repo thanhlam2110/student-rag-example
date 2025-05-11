@@ -1,0 +1,5 @@
+{
+	"sensitive data":"Location",
+	"approximate location":"User or device physical location to an area greater than or equal to 3 square kilometers, such as the city a user is in, or location provided by Android's ACCESS_COARSE_LOCATION permission.",
+	"precise location": "User or device physical location within an area less than 3 square kilometers, such as location provided by Android's ACCESS_FINE_LOCATION permission."
+}

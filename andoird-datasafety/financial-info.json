@@ -1,0 +1,7 @@
+{
+	"sensitive data":"financial info",
+	"User payment info":"Information about a user's financial accounts such as credit card number.",
+	"Purchase history": "Information about purchases or transactions a user has made.",
+	"Credit score": "Information about a user's credit. For example, their credit history or credit score.",
+	"Other financial info": "Any other financial information. For example, a user's salary or debts."
+}

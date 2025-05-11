@@ -1,0 +1,6 @@
+{
+	"permission_name":"ACCESS_FINE_LOCATION",
+	"permission_describe":"Allows an app to access precise location. Alternatively, you might want ACCESS_COARSE_LOCATION",
+	"permission_level": "dangerous",
+	"constant Value": "android.permission.ACCESS_FINE_LOCATION" 
+}

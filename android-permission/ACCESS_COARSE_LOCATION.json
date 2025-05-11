@@ -1,0 +1,6 @@
+{
+	"permission_name":"ACCESS_COARSE_LOCATION",
+	"permission_describe":"Allows an app to access approximate location",
+	"permission_level": "dangerous",
+	"constant Value": "android.permission.ACCESS_COARSE_LOCATION" 
+}
